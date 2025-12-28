@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+#BackImg{
+    background-image: url("../src/Component/Sports_assests/baseball_Icon.png");
+    width: 40%;
+    height: 40%;
+
+}
