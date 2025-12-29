@@ -8,7 +8,7 @@ function Heropage() {
 
       {/* Ball background */}
       <div
-        className="absolute top-20 left-5 w-[60%] h-[60%] bg-no-repeat bg-center bg-contain"
+        className="absolute top-20 left-6 w-[60%] h-[60%] bg-no-repeat bg-center bg-contain"
         style={{ backgroundImage: `url(${BgImg})` }}
       />
 
@@ -22,7 +22,7 @@ function Heropage() {
         className="absolute  right-[30%] top-10  w-[60%] h-[70%] bg-no-repeat bg-center bg-contain z-10"
         style={{ backgroundImage: `url(${Player})` }}
       />
-      <div className=" absolute w-[30%] left-[40%] top-[60%] ">
+      <div className=" absolute w-[30%]  left-[40%] px-2  top-[60%] ">
         The EuroLeague Finals Top Scorer is the individual award for the player
          that gained the highest points in the EuroLeague Finals
          <div></div>
